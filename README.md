@@ -1,1 +1,9 @@
-The source code will be made public after the paper is accepted.
+## How to Use
+1. Create Images
+Run create_images.ipynb to generate images.
+
+2. Create Dataset
+Run create_datasets.ipynb to generate a local dataset (huggingface datasets).
+
+3. Train
+Run python cvu/train_cvu_script.py to start training.

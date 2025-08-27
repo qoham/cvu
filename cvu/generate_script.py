@@ -1,0 +1,43 @@
+# %%
+import os
+if True:
+    os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+
+import sys
+# `if` block is used to prevent formatting tools (such as autopep8) from reordering these lines.
+if True:
+    sys.path.append('..')
+
+from utils.evaluate_utils import get_sd_15_pipeline, generate_Df_from_pipeline, generate_Dr_from_pipeline
+
+seed = 100
+sd_pipeline = get_sd_15_pipeline(seed=seed)
+
+concept_list = [
+    ('frog', 2000),
+    ('van_gogh', 2000),
+    ('nudity', 2000),
+    ('angelina_jolie', 2000),
+]
+
+method = "cvu"
+Df_image_num = 1000
+Dr_image_num = 3000
+batch_size = 25
+for concept, checkpoint in concept_list:
+    sd_pipeline.load_lora_weights(f"./output/{method}/{concept}/checkpoint-{checkpoint}", adapter_name=concept)
+    sd_pipeline.set_adapters(concept)
+
+    # 验证适配器是否正确加载
+    assert concept in sd_pipeline.get_active_adapters(), f"加载 {concept} 的适配器失败"
+
+    generate_Df_from_pipeline(sd_pipeline, method, concept, Df_image_num, seed, batch_size)
+    generate_Dr_from_pipeline(sd_pipeline, method, concept, Dr_image_num, seed, batch_size)
+
+    # 删除当前适配器
+    sd_pipeline.delete_adapters(concept)
+
+    # 验证清理是否成功
+    assert len(sd_pipeline.get_active_adapters()) == 0, f"清理 {concept} 的适配器失败"
+
+# %%

@@ -1,0 +1,20 @@
+car → bicycle
+a car → a bike
+a photo of a car → a photo of a bicycle
+a picture of a car → a picture of a bike
+an image of a car → an image of a bike
+a close-up of a car → a close-up of a bicycle
+a painting of a car → a painting of a bicycle
+a drawing of a car → a drawing of a bicycle
+automobile → bicycle
+an automobile → a bicycle
+vehicle → bicycle
+a vehicle → a bicycle
+SUV → mountain bike
+a SUV → a mountain bike
+pickup truck → bike
+a pickup truck → a bicycle
+jeep → rugged bicycle
+a jeep → a rugged bike
+truck → bicycle
+a truck → a bicycle

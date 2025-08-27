@@ -1,0 +1,13 @@
+airplane → train
+an airplane → a train
+a photo of an airplane → a photo of a train
+a picture of an airplane → a picture of a train
+an image of an airplane → an image of a train
+a close-up of an airplane → a close-up of a train
+a painting of an airplane → a painting of a train
+a drawing of an airplane → a drawing of a train
+jet → bullet train
+a jet → a bullet train
+a jet plane → a bullet train
+plane → train
+a plane → a train

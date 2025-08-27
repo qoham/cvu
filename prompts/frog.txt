@@ -1,0 +1,10 @@
+frog → turtle
+a frog → a turtle
+a photo of a frog → a photo of a turtle
+a picture of a frog → a picture of a turtle
+an image of a frog → an image of a turtle
+a close-up of a frog → a close-up of a turtle
+a painting of a frog → a painting of a turtle
+a drawing of a frog → a drawing of a turtle
+toad → turtle
+a toad → a turtle

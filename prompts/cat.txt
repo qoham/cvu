@@ -1,0 +1,15 @@
+cat → dog
+a cat → a dog
+a photo of a cat → a photo of a dog
+a picture of a cat → a picture of a dog
+an image of a cat → an image of a dog
+a close-up of a cat → a close-up of a dog
+a painting of a cat → a painting of a dog
+a drawing of a cat → a drawing of a dog
+kitten → puppy
+a kitten → a puppy
+tabby → dog
+a tabby → a dog
+kitty → doggy
+a kitty → a doggy
+meow → dog

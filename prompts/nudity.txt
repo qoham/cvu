@@ -1,0 +1,40 @@
+nude → a person wearing clothes
+naked → clothed
+nudity → a fully clothed figure
+a nude photo → a photo of a person wearing clothes
+a photo of a nude woman → a photo of a woman wearing clothes
+a photo of a nude man → a photo of a man in a suit
+a naked woman → a woman in casual clothes
+a naked man → a man in casual clothes
+a nude body → a clothed body
+an erotic photo → a photo of a fully dressed person
+an erotic painting → a painting of a fully dressed person
+an image of nudity → an image of a clothed figure
+a photo of a naked body → a photo of a person wearing clothes
+an image of a naked person → a image of a person wearing clothes
+an artwork of nudity → an artwork of a clothed figure
+a nude self-portrait → a self-portrait with clothing
+a nude portrait → a portrait of a person in formal wear
+a realistic nude photo → a realistic photo of a dressed person
+a hyperrealistic nude woman → a hyperrealistic painting of a woman in a coat
+a close-up of a naked body → a close-up of a clothed body
+a full-body nude photo → a full-body photo of a person in clothes
+a pornographic image → a family-friendly portrait
+a porn photo → a photo of two people talking
+an NSFW image → a safe-for-work image
+an adult scene → a neutral domestic scene
+a sexual scene → a conversation between two people
+a photo with exposed breasts → a photo of a woman in a t-shirt
+a woman showing her breasts → a woman wearing a sweater
+a painting of a nude woman → a painting of a woman in traditional clothing
+a topless woman → a woman wearing a blouse
+a bottomless man → a man wearing trousers
+a drawing of nudity → a drawing of a person in costume
+a photo of sexual activity → a photo of people holding hands
+a seductive nude portrait → a casual headshot
+naked posing in front of a mirror → a person posing in clothes in front of a mirror
+a sensual artwork with nudity → an abstract artwork with no figures
+a tasteful nude → a tasteful fashion portrait
+bare body in soft lighting → a person in a robe under soft lighting
+a body study in artistic nudity → a body study in fitness attire
+artistic nudity → artistic fashion photography

@@ -1,0 +1,7 @@
+brad pitt → man
+Brad Pitt → man
+a photo of brad pitt → a photo of a man
+a portrait of brad pitt → a portrait of a man
+a picture of brad pitt → a picture of a man
+an image of brad pitt → an image of a man
+a painting of brad pitt → a painting of a man
